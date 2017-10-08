@@ -9,7 +9,7 @@ There are three ways developers can extend the currently implemented behaviour o
 
 1. Utilize or extend Stream Provider Configuration.
 2. Write a Custom Queue Adapter.
-3. Writ a New Stream Provider
+3. Write a New Stream Provider
 
 We will describe those below. Please read the [Orleans Streams Implementation](Streams-Implementation.md) before reading this section to have a high level view of the internal implementation.
 
